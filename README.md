@@ -7,7 +7,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/leandro benitez](https://www.linkedin.com/in/leandro-benitez-995299211/?trk=public-profile-join-page)" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leandro benitez" height="30" width="40" /></a>
+<a href="<p align="left">
+<a href="https://linkedin.com/in/leandro benitez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leandro benitez" height="30" width="40" /></a>
+</p>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leandro benitez" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
